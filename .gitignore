@@ -1,0 +1,18 @@
+# Java files
+target/
+.classpath
+.project
+org.eclipse.*
+
+# Editor, IDEA's
+nb-configuration.xml
+nbactions.xml
+.idea/
+*.iml
+src/main/webapp/.idea/*
+
+# Linux / UNIX
+.bash_aliases
+
+# Upload folder
+uploaded-files
